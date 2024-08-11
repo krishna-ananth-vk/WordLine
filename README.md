@@ -30,4 +30,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 - Inspired by the Wordle game.
-- Special thanks to the open-source community for their contributions.
